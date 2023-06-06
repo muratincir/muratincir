@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working on Spring Boot
 - 💬 Ask me about **Java, Spring Boot**
-- 📫 You can leave me a message **murattincirr34@gmail.com*
+- 📫 You can leave me a message *murattincirr34@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
