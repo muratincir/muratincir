@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratincir&layout=compact)](https://github.com/muratincir/github-readme-stats)
+  <br>
+![mustafakoca99's github stats](https://github-readme-stats.vercel.app/api?username=muratincir&show_icons=true&theme=default)
 <!--
 **muratincir/muratincir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
